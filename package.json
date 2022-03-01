@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "fetch": "node src/fetch.js",
+    "generate": "node src/generate.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^3.10.0"
+  }
+}
